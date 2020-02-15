@@ -1,0 +1,32 @@
+{
+	"game": {
+		"name": "向上飞跃吧",
+		"appid": "616010793",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "616010793",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false,
+					"params": {
+						"appid": "616010793",
+						"storeid": "wx",
+						"plugin_version": "1.2.3_2.1.1"
+					}
+				},
+				{
+					"service_id": "241",
+					"enable": false
+				},
+				{
+					"service_id": "242",
+					"enable": false
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}

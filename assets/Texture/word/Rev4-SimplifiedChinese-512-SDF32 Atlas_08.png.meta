@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "bdfcc800-499d-44ec-ae12-316710159e9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Rev4-SimplifiedChinese-512-SDF32 Atlas_08": {
+      "ver": "1.0.4",
+      "uuid": "ba2083bd-4b50-4fbe-96e3-f00957e8f1ec",
+      "rawTextureUuid": "bdfcc800-499d-44ec-ae12-316710159e9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 24,
+      "rawWidth": 21,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
